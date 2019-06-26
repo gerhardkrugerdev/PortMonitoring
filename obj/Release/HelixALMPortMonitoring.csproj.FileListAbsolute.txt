@@ -1,0 +1,6 @@
+C:\Code\HelixALMPortMonitor\HelixALMPortMonitoring\bin\Release\HelixALMPortMonitoring.dll
+C:\Code\HelixALMPortMonitor\HelixALMPortMonitoring\bin\Release\HelixALMPortMonitoring.pdb
+C:\Code\HelixALMPortMonitor\HelixALMPortMonitoring\obj\Release\HelixALMPortMonitoring.csprojAssemblyReference.cache
+C:\Code\HelixALMPortMonitor\HelixALMPortMonitoring\obj\Release\HelixALMPortMonitoring.csproj.CoreCompileInputs.cache
+C:\Code\HelixALMPortMonitor\HelixALMPortMonitoring\obj\Release\HelixALMPortMonitoring.dll
+C:\Code\HelixALMPortMonitor\HelixALMPortMonitoring\obj\Release\HelixALMPortMonitoring.pdb
